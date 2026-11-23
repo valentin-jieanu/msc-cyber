@@ -1,4 +1,4 @@
-# Unit 6: Python classes
+# Python classes (procedural to OOP)
 
 Launch into Computing · the tutor's `Person` example, run with changed values, and the same code without a class.
 
