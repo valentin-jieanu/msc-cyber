@@ -7,4 +7,4 @@ python3 person_class.py
 python3 person_procedural.py
 ```
 
-Output: `output.txt`. Prepared with AI assistance (Claude Code).
+Output: `output.txt`.
