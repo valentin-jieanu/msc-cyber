@@ -1,4 +1,4 @@
-"""Unit 6: From procedural to object-oriented programming.
+"""From procedural to object-oriented programming.
 
 The Person class from the tutor's notes (classes.pdf, 23 Nov 2026).
 Run 1 uses the values from the notes. Run 2 changes the name and the age.
