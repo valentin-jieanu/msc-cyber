@@ -1,0 +1,14 @@
+$ python3 person_class.py
+Run 1: values from the notes
+Name: Eve, Age: 30
+Name: Adam, Age: 99
+Name: Adam, Age: 15
+
+Run 2: name and age changed
+Name: Grace, Age: 85
+Name: Alan, Age: 41
+Name: Alan, Age: 42
+
+$ python3 person_procedural.py
+Name: Alan, Age: 41
+Name: Alan, Age: 42
